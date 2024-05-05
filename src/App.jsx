@@ -4,7 +4,8 @@ function App() {
   return (
     <div>
       <Home />
-      <div>rergreherh</div>
+      <div>this is dev</div>
+      
     </div>
   );
 }
