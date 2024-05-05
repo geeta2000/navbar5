@@ -1,11 +1,10 @@
 import "./App.css";
+import { useState } from "react ";
 import Home from "./components/Home";
-function App() {
-  return (
-    <div>
-      <Home />
-    </div>
-  );
-}
+const App = () => {
+  let heroData = [{ text1: "dive into", text2: "what you love" }];
+
+  return <div></div>;
+};
 
 export default App;
